@@ -131,7 +131,15 @@ nav:
     - پریفیکس سام: Level1/prefix_sum.md
     - الگوریتم های حریصانه: Level1/greedy.md
   - سطح ۲:
-    - به زودی...: coming_soon.md
+    - Power: Level2/power.md
+    - GCD: Level2/gcd.md
+    - Fermat: Level2/fermat.md
+    - Choose: Level2/sss.md
+    - DS: Level2/ds.md
+    - Knapsack: Level2/knapsack.md
+    - Range DP: Level2/dp_range.md
+    - LIS & LCS: Level2/LIS_LCS.md
+    - TopolSort: Level2/topolsort.md
   - سطح ۳:
     - به زودی...: coming_soon.md
   - سطح ۴:
